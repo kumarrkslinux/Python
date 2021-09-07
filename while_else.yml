@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+name = 'anilkumar'
+person = ''
+
+while person != name:
+      person = input ("Type your name: ")
+else:
+      print ("i got your name")

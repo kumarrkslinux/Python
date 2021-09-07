@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+number_of_subject = int(input("please enter your number of subject: "))
+total = 0 
+subject_recevied = 0 
+
+while subject_recevied < number_of_subject:
+      subject_mark = int(input("please enter your subject mark: "))
+      total = total + subject_mark
+      subject_recevied = subject_recevied +1
+print("your total subject score", total)
+print("your total presentage", round(total / number_of_subject,2))
