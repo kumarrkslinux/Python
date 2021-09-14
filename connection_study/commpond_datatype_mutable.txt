@@ -1,0 +1,15 @@
+Mutable value will change but memeory will not get change
+immutable value will change but memeory will get change
+
+compond datatybe
+
+1. list  - Mutable
+--> []
+--> value are spearted by comma
+--> accepted hetrogeneous [can contain]
+--> mutable 
+
+names = [arun, arjun, kamal, 123, 12.3, True]
+print(id(names))
+names[0] = 'Arulkumar'
+print(name)
