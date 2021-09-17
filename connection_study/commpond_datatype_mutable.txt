@@ -1,3 +1,9 @@
+List is a Compound Datatype in Python 
+List is indicated with [] 
+List is mutable datatype 
+List can contain 'n' of elements 
+List can contain heterogeneous objects (elements)
+
 Mutable value will change but memeory will not get change
 immutable value will change but memeory will get change
 
