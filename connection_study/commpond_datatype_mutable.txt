@@ -4,6 +4,7 @@ List is mutable datatype
 List can contain 'n' of elements 
 List can contain heterogeneous objects (elements)
 List can contain duplicate content
+list maintain insertion order
 
 Mutable value will change but memeory will not get change
 immutable value will change but memeory will get change
