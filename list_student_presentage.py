@@ -22,4 +22,4 @@ for new_persentage in studentdetail:
       if int(new_persentage) > 75: 
          print(studentdetail[count -3])
          print(studentdetail[count -2])
-    count=count=1 
+    count=count-1 
