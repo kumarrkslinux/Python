@@ -17,8 +17,14 @@ print( "student Name", "student age", "student persentage", end=' ')
 print()
 print("--------------------------------------------------", end=' ')
 print()
-for new_persentage in studentdetail:
+for persentage in studentdetail:
     if count%3 == 0:
+<<<<<<< HEAD
       if int(new_persentage) > 75: 
          print(persentage)
     count=count+1 
+=======
+       if int(persentage) > 75:
+          print(persentage)
+    count = count+1
+>>>>>>> e5db7c4ffd8be2e8d2d795d95ae5ba8f0bd0c395
