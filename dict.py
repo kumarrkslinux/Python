@@ -25,6 +25,12 @@ KEYS=mark.keys()
 
 VALUE=mark.values()
 
+ONLY_VALUE=[*mark.values()]
+
+ONLY_KEY=[*mark.keys()]
+
+ONLY_VALUE1=[(88, 98)]
+
 print(LIST)
 
 print(SET)
@@ -34,3 +40,9 @@ print(TUPLE)
 print(KEYS)
 
 print(VALUE)
+
+print(ONLY_VALUE)
+
+print(ONLY_KEY)
+
+print(ONLY_VALUE1)
