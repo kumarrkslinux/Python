@@ -6,7 +6,7 @@ total_income = 0
 
 for key in sorted(emp_salary):
     print(key, ':', emp_salary[key])
-    total_income = total_income + emp_salary[key]
+    total_income += emp_salary[key]
 
 for value in emp_salary.values():
     total_income += value
