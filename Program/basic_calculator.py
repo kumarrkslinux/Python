@@ -15,6 +15,7 @@ while repeat == 'Y':
                        % --> modulus and 
                        ** --> power operator,
                        ''')
+    
     number2 = float(input("Enter your second number: "))
 
     if operator == '+':
@@ -28,6 +29,23 @@ while repeat == 'Y':
     elif operator  == '*':
         sum = number1 * number2
         print(number1, ' * ', number2, ' = ', sum)
+
+    elif operator ==  '/':
+         sum = number1 / number2
+         print(number1, ' / ', number2, ' = ', sum)
+
+    elif operator  == '//':
+         sum = number1 // number2
+         print(number1, ' // ', number2, ' = ', sum)
+
+    elif operator  == '%':
+         sum = number1 % number2
+         print(number1, ' * ', number2, ' = ', sum)
+
+    elif operator  == '**':
+         sum = number1 ** number2
+         print(number1, ' * ', number2, ' = ', sum)
+
 
     else:
         print("'Invalid' Please give valid operator ")
