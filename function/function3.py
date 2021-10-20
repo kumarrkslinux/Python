@@ -5,5 +5,5 @@ def find_discount(mrp,perc=10):
     new_price = mrp - discount
     price(new_price)
     
-find_discount(100)
+find_discount(100)    # Default value taken 
 find_discount(100,25)
