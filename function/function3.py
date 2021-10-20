@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python3.9
 
 def find_discount(mrp,perc=10):
     discount = mrp ** (perc/100)
