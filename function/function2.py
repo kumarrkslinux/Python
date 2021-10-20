@@ -2,5 +2,5 @@
 
 def tellmeyourname(*names):
     for name in names:
-       price(name)  
+       print(name)  
 find_discount('ashok','arun','sudir','varun','kalyan') 
