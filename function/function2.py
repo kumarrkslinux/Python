@@ -1,6 +1,7 @@
-#!/usr/bin/python3.9
+#!/usr/bin/python3.6
 
 def tellmeyourname(*names):
     for name in names:
        print(name)  
-find_discount('ashok','arun','sudir','varun','kalyan') 
+tellmeyourname('ashok','arun','sudir','varun','kalyan') 
+tellmeyourname('10','20','30','varun','kalyan') 

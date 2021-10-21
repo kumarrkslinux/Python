@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def find_discount(mrp,perc):
-    discount = mrp ** (perc/100)
+    discount = mrp ** (perc/100) # key word arguments
     new_price = mrp - discount
     print(new_price)
     
