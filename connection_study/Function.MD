@@ -6,6 +6,7 @@
 5. def, function calling, argument passing, keyword argument, variable length arguments
 
 keyword argument - * is tuble and ** is dictinary 
+
 variable length arguments - print() one of the example
  
 6. function:- print, len, range - They are built in function
