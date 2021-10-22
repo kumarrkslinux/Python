@@ -1,0 +1,8 @@
+File Reading Modes in Python: 
+r -read 
+w - write 
+a - append 
+r+ - read and write 
+w+ - write and read (overwrite) 
+a+ - append and read (existing along with new content) 
+x - exclusive
