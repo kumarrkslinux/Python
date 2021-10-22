@@ -3,6 +3,6 @@ r -read
 w - write 
 a - append 
 r+ - read and write 
-w+ - write and read (overwrite) 
+w+ - write and read (overwrite and file should be present) 
 a+ - append and read (existing along with new content) 
-x - exclusive
+x - exclusive [File should not be present]
