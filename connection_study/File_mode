@@ -1,0 +1,10 @@
+File Reading Modes in Python: 
+r -read 
+w - write 
+a - append 
+r+ - read and write 
+w+ - write and read (overwrite and file should be present) 
+a+ - append and read (existing along with new content) 
+x - exclusive [File should not be present]
+
+rb = binary read
