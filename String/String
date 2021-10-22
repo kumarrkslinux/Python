@@ -1,1 +1,56 @@
+#!/usr/bin/python3.6
 
+value2 = "Hello's Universal"
+
+print(value2)
+
+value3 = 'Hello Universal'
+
+print(len(value3))
+
+print(value3[10]) # index
+
+print(value3[0:6]) #
+
+print(value3[:6])
+
+print(value3[0:])
+
+print(value3[2::])
+
+print(value3[::3])
+
+print(value3[::-1])
+
+print(value2.upper())
+
+print(value2.lower())
+
+print(value2.count("Hello"))
+
+print(value2.count("l"))
+
+print(value2.find("Universal"))
+
+print(value2.find("wrong"))
+
+print(value2.replace('Universal', 'World'))
+
+Greeting ='Welcome'
+
+Name = 'Kumar'
+
+value6 = Greeting +', ' + Name + '. Welcome!'
+
+value7 = '{}, {}. Welcome!'.format(Greeting,Name)
+
+value8 = f'{Greeting}, {Name.upper()}. Welcome!'
+
+
+print(value7)
+print(value8)
+
+print(dir(Name))
+
+print(help(str.find))
+print(help(str))
