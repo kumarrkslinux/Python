@@ -17,3 +17,6 @@ even.append([23])
 print(even)
 odd[2:6] = []
 print(odd)
+
+even.append(odd)
+print(even)
