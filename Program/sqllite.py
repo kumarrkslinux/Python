@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 import sqlite3
 
+# drop deletes the entire structure of table..but truncate clears the temporary data
+
 connection = sqlite3.connect("C:\\Users\kannan\DB1.db")
 
 cursor = connection.cursor()
