@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import sqlite3
 
-connection = sqlite3.connect("C:\\Users\krajak111\DB1.db")
+connection = sqlite3.connect("C:\\Users\kannan\DB1.db")
 
 cursor = connection.cursor()
 
