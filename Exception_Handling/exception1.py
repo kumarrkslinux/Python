@@ -10,5 +10,7 @@ while True:
         option = input("continue ? yes|no: ")
         if option.lower() == 'no':
             break 
-    except:
+    except ValueError:
         print("please enter the valid PIN number")
+    except:                                        # default exception handeling   
+        print("please check some issue") 

@@ -1,0 +1,8 @@
+
+1. exception --> During runtime unexpected event that stops the normal flow of program. In a python exception is a class.
+
+2. Error vs exception --> syntax error can be found during the compile time error, but excetion can be handled by programmer using try except block 
+
+3. Few 
+
+
