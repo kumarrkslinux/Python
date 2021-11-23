@@ -27,7 +27,7 @@ class Laptop:
 #function -> method
 #objects -> instances
 
-#class vodafone: # memeory space Document Name
+#class vodafone: # memeory space  Document Name
 
 #executiove = vodafone() 
 
