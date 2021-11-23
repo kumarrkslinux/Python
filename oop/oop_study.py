@@ -11,7 +11,7 @@
 
 #one name memeory space called class 
 
-#class -> template, behaviour
+#class -> template, behaviour{Blueprint}
 
 class Laptop:
       brand = 'Dell'   [variable -> atrributes]
