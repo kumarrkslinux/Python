@@ -29,7 +29,7 @@ class Laptop:
 
 #class vodafone: # memeory space  Document Name
 
-#executiove = vodafone() 
+#executiove = vodafone()  # object creation 
 
 #manager = vodafone()   
 
