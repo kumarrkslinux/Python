@@ -37,6 +37,7 @@ class Laptop:
 #representative referecence name of the object 
 #object represents class
 #object is instance of class 
+#to access the method and atrributes we should need object in the class 
 
 # class variable  - is applicable for class and all the instance present inside the class. 
 # instance variable - For each instance, memeory copy will be created 
