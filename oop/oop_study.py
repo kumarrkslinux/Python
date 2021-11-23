@@ -13,6 +13,15 @@
 
 #class -> template, behaviour
 
+class Laptop:
+      brand = 'Dell'   [variable -> atrributes]
+      Color = 'Black'  [variable -> atrributes]
+      
+      def calculator(a,b) [function -> method]
+          return a+b          [function -> method]
+    
+      def browser()
+          pass 
 
 #variable -> atrributes 
 #function -> method
