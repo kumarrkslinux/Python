@@ -11,16 +11,25 @@
 
 #one name memeory space called class 
 
-#class -> template, behaviour
+#class -> template, behaviour{Blueprint}
 
+class Laptop:
+      brand = 'Dell'   [variable -> atrributes]
+      Color = 'Black'  [variable -> atrributes]
+      
+      def calculator(a,b) [function -> method]
+          return a+b          [function -> method]
+    
+      def browser()
+          pass 
 
 #variable -> atrributes 
 #function -> method
 #objects -> instances
 
-#class vodafone: # memeory space Document Name
+#class vodafone: # memeory space  Document Name
 
-#executiove = vodafone() 
+#executiove = vodafone()  # object creation 
 
 #manager = vodafone()   
 
@@ -28,8 +37,10 @@
 #representative referecence name of the object 
 #object represents class
 #object is instance of class 
+#to access the method and atrributes we should need object in the class 
 
 # class variable  - is applicable for class and all the instance present inside the class. 
 # instance variable - For each instance, memeory copy will be created 
 
 # contructor - is useful for initialising object sepcific information .... Contructor will be called automatically whenevet you creating objects
+# with out contructor class cannot create, each and very object information will store data in a place called contructor.  
