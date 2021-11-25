@@ -43,3 +43,4 @@ class Laptop:
 # instance variable - For each instance, memeory copy will be created 
 
 # contructor - is useful for initialising object sepcific information .... Contructor will be called automatically whenevet you creating objects
+# with out contructor class cannot create, each and very object will store data in a place called contructor.  
