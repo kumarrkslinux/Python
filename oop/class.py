@@ -13,9 +13,11 @@ production2 = SuperMarket()
 
 production2.name = 'tea'
 production2.prize = 21
-production1.dicount = 1.12
+production2.dicount = 1.12
 
 
 print(production1)
+print(production1.name)
 print(production2)
+print(production2.dicount)
 
