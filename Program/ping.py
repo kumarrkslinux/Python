@@ -27,7 +27,7 @@ if __name__ == '__main__':
     # to make sure there aren't any unnecessary lines.
     for i in range(len(servers)):
         servers[i] = servers[i].strip('\n')
-    outputlist = ping(servers)
+    newoutputlist = ping(servers)
 
     # Uncomment the following lines to print the output of successful servers
     #print(outputlist)
