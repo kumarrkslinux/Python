@@ -21,6 +21,7 @@
 21.	SymPy
 22.	Pandas
 23.	Matlotlib
+
 24.Sql Alchemy
 25.Plotly
 26.scikit-learn
