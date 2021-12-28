@@ -1,3 +1,4 @@
+~~~
 1.	Natural Language Processing (NLP)
 2.	Gensim
 3.	FlashText
@@ -21,7 +22,6 @@
 21.	SymPy
 22.	Pandas
 23.	Matlotlib
-
 24.Sql Alchemy
 25.Plotly
 26.scikit-learn
