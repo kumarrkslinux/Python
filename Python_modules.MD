@@ -22,24 +22,24 @@
 21.	SymPy
 22.	Pandas
 23.	Matlotlib
-24.Sql Alchemy
-25.Plotly
-26.scikit-learn
-27.imbalanced-learn
-28.theano
-29.Bokeh
-30.Pymc3
-31.LightGBM
-32.eli5
-33.Keras
-34.Tensorflow
+24. Sql Alchemy
+25. Plotly
+26. scikit-learn
+27. imbalanced-learn
+28. theano
+29. Bokeh
+30. Pymc3
+31. LightGBM
+32. eli5
+33. Keras
+34. Tensorflow
 35. PyTorch
-36.Twisted
-37.IPython
-38.Pillow
-39.Pywin32
-40.Selenium
-41.Pywhatkit
-42.Kivy
+36. Twisted
+37. IPython
+38. Pillow
+39. Pywin32
+40. Selenium
+41. Pywhatkit
+42. Kivy
 43. Pendulum
-44.Loguru
+44. Loguru
