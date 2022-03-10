@@ -1,15 +1,15 @@
-```sh
+```python
 with open('server', 'r') as kumar:
     for i in kumar:
         print(i.strip())
 ```
 
-```sh
+```python
 file = open('server', 'r')
 read = file.readlines()
 print(read)
 ```
-```sh
+```python
 lines = [ 'HAI', "How are you"]
 with open('server', 'a') as kumar:
       KO=kumar.write('\n'.join(lines))
