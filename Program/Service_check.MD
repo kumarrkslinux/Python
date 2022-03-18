@@ -12,7 +12,7 @@ def check_service_status(service_name):
 def main():
 
    if (check_service_status(service_name) == 0):
-      print service_name, "is Running"
+      print service_name, "is running"
 
    else:
       print service_name, "is not running"
