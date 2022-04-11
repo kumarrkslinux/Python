@@ -1,5 +1,5 @@
 ```python
-outuber = "Ena Ooru kumari"
+youtuber = "Ena Ooru kumari"
 
 print("Subcribe my youtube channel" + youtuber)
 print("Subcribe my youtube channel {}".format(youtuber))
