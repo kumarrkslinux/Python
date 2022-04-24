@@ -1,7 +1,6 @@
 
 ```python 
 from nsetools import Nse
-import json
 nse = Nse()
 top_gainers = nse.get_top_gainers()
 new = top_gainers[0:-1]
@@ -12,7 +11,6 @@ for com in new:
 print("===========================================================")
 
 from nsetools import Nse
-import json
 nse = Nse()
 top_looser = nse.get_top_losers()
 new = top_looser[0:-1]
