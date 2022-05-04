@@ -5,6 +5,5 @@ file_name = "/var/log/messages"
 
 with open(file_name, 'r' ) as readservername:
      for i in readservername: 
-        #  value = re.search('kernel', i)
-         if "kernel" in i:
+        if "kernel" in i:
              print(i)
