@@ -1,4 +1,4 @@
-```python```
+```python
 import requests
 import json
 api_url = "https://api.github.com/users/kumarrkslinux/repos"
