@@ -11,10 +11,10 @@
 >>> a
 15
 
-a, _, b = (1, 2, 3) # a = 1, b = 3
+a, _, b = (1, 2, 3) # a = 1, b = 3 # Ignoring Values
 print(a, b)
 
-for _ in range(5):
+for _ in range(5): # Use In Looping
     print(_)
 
 languages = ["Python", "JS", "PHP", "Java"]
