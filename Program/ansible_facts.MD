@@ -14,3 +14,9 @@ def get_unreachable_hosts():
     return hosts_list
 hosts_list = get_unreachable_hosts()
 print(hosts_list)
+
+def main():
+    get_unreachable_hosts()
+
+if __name__ == '__main__':
+    main()
