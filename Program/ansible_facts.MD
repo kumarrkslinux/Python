@@ -12,8 +12,8 @@ def get_unreachable_hosts():
                 if 'ansible_facts' not in facts.keys():
                     hosts_list.append(file)
     return hosts_list
-hosts_list = get_unreachable_hosts()
-print(hosts_list)
+#hosts_list = get_unreachable_hosts()
+#print(hosts_list)
 
 def main():
     get_unreachable_hosts()
