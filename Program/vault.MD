@@ -18,4 +18,4 @@ def vaultread(token):
     newdata = client.read('secret/new_account_password')
     return newdata
     
-print(vaultread(tokenpassword))
+print(vaultread(s.xxxxxxxxxxxxxxxxxx))
