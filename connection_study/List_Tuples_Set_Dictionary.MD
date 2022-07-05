@@ -3,19 +3,19 @@
 - Set is a collection which is unordered and unindexed. No duplicate members. {} -- Immutable 
 - Dictionary is a collection which is ordered* and changeable. No duplicate members. -- { key:value } or { items } - Key --> Uniqe, value --> can change / ​key - string ,int , tuple
 
-# empty list
+### empty list
 ```python
 empty_list = []
 empty_list = list()
 ```
-# empty tubles 
+### empty tubles 
 
 ```python
 empty_tuble = ()
 empty_tuble = tuble()
 ```
 
-# empty set
+### empty set
 ```python
 empty_set = {} # it is not correct . Its dict
 empty_set = set()
