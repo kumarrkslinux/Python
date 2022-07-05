@@ -6,6 +6,9 @@ Lists are one of 4 built-in data types in Python used to store collections of da
 
 Lists are created using square brackets:
 
+```sh  
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
 
 
 ### Tuples:-
@@ -16,6 +19,7 @@ Tuple is one of 4 built-in data types in Python used to store collections of dat
 
 A tuple is a collection which is ordered and unchangeable.  Tuples are written with round brackets.
 
+```sh 
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
 
@@ -29,6 +33,7 @@ A set is a collection which is unordered, unchangeable*, and unindexed.
 
 * Note: Set items are unchangeable, but you can remove items and add new items. 
 
+```sh 
 thisset = {"apple", "banana", "cherry"}
 print(thisset)
 
@@ -43,6 +48,7 @@ As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, d
 
 Dictionaries are written with curly brackets, and have keys and values:
 
+```sh 
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
