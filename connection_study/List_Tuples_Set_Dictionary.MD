@@ -6,10 +6,10 @@ Lists are one of 4 built-in data types in Python used to store collections of da
 
 Lists are created using square brackets:
 
+```python
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
-```sh 
-
+```
 ### Tuples:-
 
 Tuples are used to store multiple items in a single variable.
