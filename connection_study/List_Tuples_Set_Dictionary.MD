@@ -9,7 +9,7 @@ Lists are created using square brackets:
 ```sh  
 thislist = ["apple", "banana", "cherry"]
 print(thislist)
-
+```sh 
 
 ### Tuples:-
 
@@ -22,6 +22,7 @@ A tuple is a collection which is ordered and unchangeable.  Tuples are written w
 ```sh 
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
+```sh 
 
 ### Set:- 
 
@@ -36,7 +37,7 @@ A set is a collection which is unordered, unchangeable*, and unindexed.
 ```sh 
 thisset = {"apple", "banana", "cherry"}
 print(thisset)
-
+```sh 
 
 ### Dictionary:-
 
@@ -55,3 +56,4 @@ thisdict = {
   "year": 1964
 }
 print(thisdict)
+```sh 
