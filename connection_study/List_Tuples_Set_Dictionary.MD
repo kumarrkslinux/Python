@@ -18,10 +18,10 @@ Tuple is one of 4 built-in data types in Python used to store collections of dat
 
 A tuple is a collection which is ordered and unchangeable.  Tuples are written with round brackets.
 
- 
+ ```python
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
-```sh 
+```
 
 ### Set:- 
 
@@ -33,9 +33,10 @@ A set is a collection which is unordered, unchangeable*, and unindexed.
 
 * Note: Set items are unchangeable, but you can remove items and add new items. 
 
+```python
 thisset = {"apple", "banana", "cherry"}
 print(thisset)
-```sh 
+```
 
 ### Dictionary:-
 
@@ -47,11 +48,11 @@ As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, d
 
 Dictionaries are written with curly brackets, and have keys and values:
 
-
+ ```python
 thisdict = {
   "brand": "Ford",
   "model": "Mustang",
   "year": 1964
 }
 print(thisdict)
-```sh 
+``` 
