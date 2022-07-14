@@ -11,8 +11,9 @@ for link in soup.find_all('a'):
        and len(link.string) > 35):
           print(str(M)+".", link.string)
           M += 1
-          
-```python
+
+
+#-----------------------------------------------------------------------------------------------
 import requests
 from bs4 import BeautifulSoup as bs
 
